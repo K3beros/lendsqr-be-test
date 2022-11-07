@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/mac/Documents/work/test/lendsqr-assesment/src/logs/debug/.d6cf7faaecc1739cc720e71a721a5a347dbee736-audit.json",
+    "files": [
+        {
+            "date": 1667787057151,
+            "name": "/Users/mac/Documents/work/test/lendsqr-assesment/src/logs/debug/2022-11-07.log",
+            "hash": "d837e64a0e15caacbaf5f0d059c7795942feae8d7d34d6c54768a55710eaf6f8"
+        }
+    ],
+    "hashType": "sha256"
+}

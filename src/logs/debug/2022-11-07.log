@@ -1,0 +1,75 @@
+2022-11-07 03:10:58 info: [0mGET / [32m200[0m 5.465 ms - 2[0m
+2022-11-07 03:11:35 error: [POST] /signup >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:11:35 error: [GET] /users >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:11:35 info: [0mGET /users [31m500[0m 6766.380 ms - 49[0m
+2022-11-07 03:11:35 error: [GET] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:11:35 info: [0mGET /users/1 [31m500[0m 459.557 ms - 49[0m
+2022-11-07 03:11:35 info: [0mPOST /signup [31m500[0m 6765.511 ms - 49[0m
+2022-11-07 03:11:35 error: [POST] /login >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:11:35 info: [0mPOST /login [31m500[0m 457.644 ms - 49[0m
+2022-11-07 03:11:35 error: [POST] /users >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:11:35 info: [0mPOST /users [31m500[0m 28.571 ms - 49[0m
+2022-11-07 03:11:35 error: [PUT] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:11:35 info: [0mPUT /users/1 [31m500[0m 7.855 ms - 49[0m
+2022-11-07 03:11:35 error: [DELETE] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:11:35 info: [0mDELETE /users/1 [31m500[0m 4.213 ms - 49[0m
+2022-11-07 03:15:23 error: [GET] /users >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:15:24 info: [0mGET /users [31m500[0m 7500.458 ms - 49[0m
+2022-11-07 03:15:24 error: [GET] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:15:24 info: [0mGET /users/1 [31m500[0m 1434.973 ms - 49[0m
+2022-11-07 03:15:27 error: [POST] /users >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:15:27 info: [0mPOST /users [31m500[0m 2721.033 ms - 49[0m
+2022-11-07 03:15:27 error: [PUT] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:15:27 info: [0mPUT /users/1 [31m500[0m 25.685 ms - 49[0m
+2022-11-07 03:15:27 error: [DELETE] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:15:27 info: [0mDELETE /users/1 [31m500[0m 26.453 ms - 49[0m
+2022-11-07 03:15:51 error: [POST] /signup >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:15:52 info: [0mPOST /signup [31m500[0m 11249.429 ms - 49[0m
+2022-11-07 03:15:52 error: [POST] /login >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 03:15:52 info: [0mPOST /login [31m500[0m 31.942 ms - 49[0m
+2022-11-07 03:17:02 info: [0mGET / [32m200[0m 5.465 ms - 2[0m
+2022-11-07 09:32:42 error: [POST] /signup >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:32:42 info: [0mPOST /signup [31m500[0m 5405.769 ms - 49[0m
+2022-11-07 09:32:42 error: [POST] /login >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:32:42 info: [0mPOST /login [31m500[0m 39.135 ms - 49[0m
+2022-11-07 09:34:27 error: [GET] /users >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:34:27 info: [0mGET /users [31m500[0m 4736.903 ms - 49[0m
+2022-11-07 09:34:27 error: [GET] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:34:27 info: [0mGET /users/1 [31m500[0m 20.184 ms - 49[0m
+2022-11-07 09:34:28 error: [POST] /users >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:34:28 info: [0mPOST /users [31m500[0m 474.352 ms - 49[0m
+2022-11-07 09:34:28 error: [PUT] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:34:28 info: [0mPUT /users/1 [31m500[0m 62.452 ms - 49[0m
+2022-11-07 09:34:28 error: [DELETE] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:34:28 info: [0mDELETE /users/1 [31m500[0m 119.678 ms - 49[0m
+2022-11-07 09:35:21 info: [0mGET / [32m200[0m 4.683 ms - 2[0m
+2022-11-07 09:41:53 error: [POST] /signup >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:41:53 error: [GET] /users >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:41:53 info: [0mPOST /signup [31m500[0m 3017.206 ms - 49[0m
+2022-11-07 09:41:53 info: [0mGET /users [31m500[0m 3012.763 ms - 49[0m
+2022-11-07 09:41:53 error: [GET] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:41:53 error: [POST] /login >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:41:53 info: [0mGET /users/1 [31m500[0m 6.455 ms - 49[0m
+2022-11-07 09:41:53 info: [0mPOST /login [31m500[0m 8.499 ms - 49[0m
+2022-11-07 09:41:53 error: [POST] /users >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:41:53 info: [0mPOST /users [31m500[0m 24.777 ms - 49[0m
+2022-11-07 09:41:53 error: [PUT] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:41:53 info: [0mPUT /users/1 [31m500[0m 7.209 ms - 49[0m
+2022-11-07 09:41:53 error: [DELETE] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:41:53 info: [0mDELETE /users/1 [31m500[0m 4.327 ms - 49[0m
+2022-11-07 09:42:47 info: [0mGET / [32m200[0m 6.304 ms - 2[0m
+2022-11-07 09:49:59 error: [POST] /signup >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:49:59 error: [GET] /users >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:49:59 info: [0mGET /users [31m500[0m 5605.028 ms - 49[0m
+2022-11-07 09:49:59 info: [0mPOST /signup [31m500[0m 5599.738 ms - 49[0m
+2022-11-07 09:49:59 error: [POST] /login >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:49:59 info: [0mPOST /login [31m500[0m 18.772 ms - 49[0m
+2022-11-07 09:49:59 error: [GET] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:49:59 info: [0mGET /users/1 [31m500[0m 39.899 ms - 49[0m
+2022-11-07 09:49:59 error: [POST] /users >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:49:59 info: [0mPOST /users [31m500[0m 94.243 ms - 49[0m
+2022-11-07 09:49:59 error: [PUT] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:49:59 info: [0mPUT /users/1 [31m500[0m 22.265 ms - 49[0m
+2022-11-07 09:49:59 error: [DELETE] /users/1 >> StatusCode:: 500, Message:: connect ECONNREFUSED 127.0.0.1:3306
+2022-11-07 09:49:59 info: [0mDELETE /users/1 [31m500[0m 33.952 ms - 49[0m
+2022-11-07 09:51:10 info: [0mGET / [32m200[0m 2.270 ms - 2[0m
